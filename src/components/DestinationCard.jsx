@@ -1,5 +1,4 @@
-import { CircleDollar } from '@gravity-ui/icons';
-import { Card } from '@heroui/react';
+
 import Image from 'next/image';
 import { MapPin } from '@gravity-ui/icons';
 import Link from 'next/link';
